@@ -1,0 +1,6 @@
+{
+  "body": "{\"content\":\"hello brave new world\",\"attachment\":\"hello_new.jpg\"}",
+  "pathParameters": {
+    "id": "82dcd6b0-9ef1-11eb-a53b-e9e77992407b"
+  }
+}
